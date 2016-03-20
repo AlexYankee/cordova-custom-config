@@ -14,7 +14,7 @@ var logger,
     plist,
     xcode,
     tostr;
-ke
+
 // Other globals
 var hooksPath;
 
